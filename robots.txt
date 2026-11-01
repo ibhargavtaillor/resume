@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://ibhargavtaillor.github.io
+Sitemap: https://ibhargavtaillor.github.io/sitemap.xml

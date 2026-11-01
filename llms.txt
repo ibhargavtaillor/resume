@@ -1,0 +1,79 @@
+# Bhargav Tailor
+
+> Principal Engineer | AI Engineering | Product Engineering | Frontend Architecture. Gujarat, India.
+
+Principal Engineer with 10+ years of experience building scalable web platforms and enterprise applications, with strong expertise in frontend architecture, full-stack engineering, AI-driven development, engineering automation and product engineering. Currently focused on applying AI to software development workflows, automating repetitive engineering tasks and building AI-enabled solutions.
+
+## Now
+- Building: Production MCP tooling and AI-enabled features for the Docyt platform
+- Automating: Repetitive engineering workflows with AI-driven development
+- Leading: Frontend architecture and platform engineering at Docyt
+- Based in: Gujarat, India
+
+## Experience
+### Principal Engineer · AI & Product Engineering — Docyt India Pvt. Ltd. · Noida (Apr 2024 — Present)
+- Lead technical architecture and key engineering decisions for the Docyt web platform, owning frontend architecture, platform engineering and product development.
+- Drive AI-powered development practices that improve engineering productivity, automate repetitive workflows and speed up feature delivery.
+- Designed and built production MCP tooling that lets AI systems and users work with product capabilities through structured tools. It is live and actively used.
+- Work with product and engineering teams to turn business requirements into scalable technical solutions.
+
+### Frontend Team Lead · Fullstack Engineer — SpaceO Technologies · Ahmedabad (Dec 2019 — Mar 2024)
+- Built React dashboards used by 30+ enterprise clients processing thousands of financial records daily, improving data visualization performance by 40% through memoization and virtualization.
+- Spearheaded a scalable full-stack platform that handled 50K+ active users with 0 downtime.
+- Led a team of 4 engineers delivering enterprise-grade web applications.
+- Oversaw code review processes and drove continuous improvements.
+
+### Senior Backend Developer — Hyperlink Infosystem · Ahmedabad (Jan 2016 — Dec 2019)
+- Spearheaded backend development for high-traffic applications, scaling systems to handle substantial daily request volumes.
+- Administered PostgreSQL and MySQL databases, optimizing SQL queries and improving reporting speed by 25%.
+- Contributed to architectural discussions and design decisions that improved system scalability.
+
+## Projects
+### Docyt (Fintech platform) — Principal Engineer · Senior Member of Technical Staff
+A fintech platform that manages back-office operations and bookkeeping for large business accounts.
+- Code owner for the frontend and key technical decisions for the web platform
+- Designed and maintained micro-frontend patterns and shared design systems
+- Improved application performance, scalability and maintainability
+- Work closely with the product team on a better user experience
+- Stack: TypeScript, JavaScript, CoffeeScript (legacy), React (v16–v19), React Router, React Query, Redux, Jotai, Ant Design, Bootstrap, Material UI, SASS/SCSS, CSS Modules, PostCSS; Webpack, Vite, Turborepo, ESLint, Prettier, Stylelint; Ruby, Spring Boot, Spring Cloud Config; PostgreSQL, MongoDB, Redis, Elasticsearch, OpenSearch; AWS (S3, RDS, SNS, ECR), Google Cloud Platform, Docker, Docker Compose
+
+### Fansify (Creator platform) — Senior Frontend / Fullstack Engineer
+A creator monetization platform serving users in the UK and US markets.
+- Joined as a code reviewer and grew into a core contributor
+- Stabilized the app by fixing critical bugs and improving reliability
+- Built a fully responsive React UI for every screen size and device
+- Contributed to scalability and production readiness
+- Stack: React (TypeScript), Apollo Client & Server, GraphQL, TypeORM; PostgreSQL, Redis, Bull (job queues); Terraform, GCP (basic), AWS (MediaConvert, SNS, S3, EC2)
+
+### Kresys (Enterprise app) — Frontend & Backend
+An enterprise web application where I owned both the frontend and the backend.
+- Developed React user interfaces in TypeScript
+- Managed application state with MobX
+- Enforced code quality with ESLint and Prettier
+- Stack: React (TypeScript), MobX, HTML, Bootstrap, ESLint, Prettier; PHP (Yii2), MySQL
+
+### CSTAR International (Corporate platform) — Full Stack Developer
+A corporate web platform built and maintained on Laravel and MySQL.
+- Built and maintained web features with Laravel and MySQL
+- Integrated real-time chat over XMPP
+- Worked on email campaigns and integrations with MailChimp
+- Stack: Laravel, MySQL, XMPP Chat, MailChimp, HTML, Bootstrap
+
+## Skills
+- AI & AI Engineering: AI-Driven Development, AI Automation, Prompt Engineering, AI Tool Skill Development, MCP Tool Development, AI-Assisted Engineering Workflows, LLM Integration
+- Frontend: React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3
+- State & Data Fetching: Redux, React Query, Apollo Client
+- Styling & UI: Tailwind CSS, Bootstrap, Responsive Design, Design Systems
+- Backend & APIs: Node.js, REST APIs, GraphQL, PHP (Laravel, Yii2, CodeIgniter), Ruby on Rails (basic)
+- Databases: PostgreSQL, MySQL
+- CI/CD, DevOps & Cloud: Jenkins, GitHub Actions, CI/CD Pipelines, AWS, GCP
+- Spoken languages: English, Hindi, Gujarati
+
+## Links
+- [Website](https://ibhargavtaillor.github.io)
+- [Résumé](https://ibhargavtaillor.github.io/resume)
+- [Email](mailto:bhargavtailor6@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bhargav-tailor-3b46b689/)
+- [GitHub](https://github.com/ibhargavtaillor)
+- [Medium](https://medium.com/@bhargavtailor)
+- [about.me](https://about.me/bhargav_tailor)
